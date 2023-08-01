@@ -1,0 +1,72 @@
+/*.external{
+	border: 2px  dashed green;
+
+	background-color: pink;
+}
+#abc{
+	font-size: 30px;
+	background-color: yellow;
+}
+.gunas{
+	font-size: 200px;
+	background-color: pink;
+}
+p,span{
+	color:blue;
+	font-size: 30px;
+	background-color: black;
+	background-size: height:150px;width: 140px;
+	font-family: cursive;
+}
+div{
+	height: 1000px;
+	width: 1130px;
+	background-color: red;
+}
+h3{
+	background-color: yellow;
+}
+
+*{ color:blue;
+
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+}
+input[type]
+{
+	color: yellow;
+}
+input[type="text"]
+{
+	color: pink;
+}
+input[type="number"]{
+	color: pink;
+}
+img[src]
+{
+height: 1000px;
+width: 500px;
+ border-color: skyblue;
+}
+a:hover{
+	color: orange;
+	font-size: 50px;
+}
+a:link{
+	color: red;
+}
+a:visted{
+	color: yellow;
+}
+a:active{
+  color: tomato;
+}*/
+div{
+	height: 500px;
+	width: 500px;
+	border: 10px solid red;
+	background-image: url('rr.jpeg');
+	
+}
